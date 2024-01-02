@@ -1,6 +1,7 @@
 /*Q1.who is the most senior most employee based on job title?*/
+--Author NB
 -- hii nb 
---hii sb
+
 
 select * from employee
 order by levels desc
